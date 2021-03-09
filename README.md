@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dawnofmidnight
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning about lexer and parsers.
-- 💞️ I’m looking to collaborate on: nothing really.
-- 📫 You can reach me on Discord (DawnOfMidnight#2559) or at dawnofmidnight1128@gmail.com.
+👋 Hi there!
+
+I'm DawnOfMidnight, a NodeJS/TypeScript and Python developer.
+
+My main project at the moment is [Morpheus](https://github.com/dawnofmidnight/morpheus), a Discord API Wrapper.
 
 <!---
 dawnofmidnight/dawnofmidnight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
