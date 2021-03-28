@@ -1,12 +1,24 @@
-👋 Hi there!
+# 👋 Hi there!
 
 I'm DawnOfMidnight, a NodeJS/TypeScript and Python developer.
 
-My main project at the moment is [Dusk](https://top.gg/bot/804722318743437375), an all-purpose Discord bot.
+Right now, I'm working on Erebus, a Dicsord API wrapper written in TypeScript, and [duskbot.me](https://duskbot.me), a WIP website for the Dusk Discord bot.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnofmidnight&show_icons=true)
+<a href="https://github.com/anuraghazra/erebus.js">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnofmidnight&repo=erebus.js&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=00ffdb&hide_border=true"/>
+</a>
 
-![GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnofmidnight)
+<a href="https://github.com/anuraghazra/duskbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnofmidnight&repo=duskbot&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=00ffdb&hide_border=true"/>
+</a>
+
+<hr>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dawnofmidnight&count_private=true&show_icons=true&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=00ffdb&hide_border=true"/>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawnofmidnight&layout=compact&&hide_border=true&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FFDB"/>
+
+
 
 <!---
 dawnofmidnight/dawnofmidnight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
