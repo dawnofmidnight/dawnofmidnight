@@ -2,14 +2,10 @@
 
 I'm DawnOfMidnight, a NodeJS/TypeScript and Python developer.
 
-Right now, I'm working on Erebus, a Dicsord API wrapper written in TypeScript, and [duskbot.me](https://duskbot.me), a WIP website for the Dusk Discord bot.
+Right now, I'm working on Osiris, a backend web framework for JavaScript and TypeScript.
 
-<a href="https://github.com/dawnofmidnight/erebus.js">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnofmidnight&repo=erebus.js&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=00ffdb&hide_border=true"/>
-</a>
-
-<a href="https://github.com/dawnofmidnight/duskbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnofmidnight&repo=duskbot&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=00ffdb&hide_border=true"/>
+<a href="https://github.com/dawnofmidnight/osiris">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnofmidnight&repo=osiris&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=682AE9&hide_border=true"/>
 </a>
 
 <hr>
