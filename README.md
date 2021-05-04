@@ -2,10 +2,10 @@
 
 I'm DawnOfMidnight, a NodeJS/TypeScript and Python developer.
 
-Right now, I'm working on Osiris, a backend web framework for JavaScript and TypeScript.
+Right now, I'm working on my portfolio.
 
-<a href="https://github.com/dawnofmidnight/osiris">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnofmidnight&repo=osiris&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=682AE9&hide_border=true"/>
+<a href="https://github.com/dawnofmidnight/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dawnofmidnight&repo=portfolio&bg_color=16161D&title_color=FFFFFF&text_color=FFFFFF&icon_color=682AE9&hide_border=true"/>
 </a>
 
 <hr>
