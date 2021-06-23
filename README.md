@@ -1,12 +1,4 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="128" height="128">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+# 👋 Heyo!
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnofmidnight&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnofmidnight&theme=tokyonight&layout=compact&langs_count=8)
